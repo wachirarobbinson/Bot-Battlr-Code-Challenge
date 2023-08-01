@@ -6,10 +6,9 @@ A. [Description](#description)
 
 B. [features](#features)
 
-C. How to Run the Website
+C.[ How to Run the Website]
 
 D. [Technology Used](#technology-used)
-
 
 E. [License](#license)
 
